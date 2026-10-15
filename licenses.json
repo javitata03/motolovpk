@@ -2,15 +2,15 @@
   "revoked": [],
   "clients": [
     {
-      "client": "Owner @MolotovPk",
+      "client": "MolotovPk",
       "mids": [
         "MLTV-ABE9-62CC-A456-BD1B"
       ],
       "seats": 1,
-      "created": "15/10/2026 03:37",
+      "created": "15/10/2026 04:56",
       "exp": "Permanente (De por vida)",
       "exp_days": 0,
-      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtQUJFOS02MkNDLUE0NTYtQkQxQiJdLCJjbGllbnQiOiJPd25lciBATW9sb3RvdlBrIiwiZXhwIjowLCJzZWF0cyI6MSwiY3JlYXRlZCI6MTc5MjAzNTQ1MywidmVuZG9yIjoiQE1vbG90b3ZQayJ9-AF93502ED9E413B6",
+      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtQUJFOS02MkNDLUE0NTYtQkQxQiJdLCJjbGllbnQiOiJNb2xvdG92UGsiLCJleHAiOjAsInNlYXRzIjoxLCJjcmVhdGVkIjoxNzkyMDQwMjAzLCJ2ZW5kb3IiOiJATW9sb3RvdlBrIn0=-488A0939BFA25A07",
       "status": "ACTIVE"
     }
   ]
