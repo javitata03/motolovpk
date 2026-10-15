@@ -1,3 +1,8 @@
 *.bat
+*.py
+*.pyw
+admin_licenses.json
+__pycache__/
+*.dat
 *.tmp
 .DS_Store
