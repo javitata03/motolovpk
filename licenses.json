@@ -1,5 +1,7 @@
 {
-  "revoked": [],
+  "revoked": [
+    "MLTV-27B7-B24A-C716-E073"
+  ],
   "clients": [
     {
       "client": "yasss",
@@ -11,7 +13,7 @@
       "exp": "Permanente (De por vida)",
       "exp_days": 0,
       "key": "MLIC-eyJtaWRzIjpbIk1MVFYtMjdCNy1CMjRBLUM3MTYtRTA3MyJdLCJjbGllbnQiOiJ5YXNzcyIsImV4cCI6MCwic2VhdHMiOjEsImNyZWF0ZWQiOjE3OTIwNzU4NTAsInZlbmRvciI6IkBNb2xvdG92UGsifQ==-04C8502333E83BA5",
-      "status": "ACTIVE"
+      "status": "REVOKED"
     },
     {
       "client": "MolotovPk",
