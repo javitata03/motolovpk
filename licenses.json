@@ -2,18 +2,6 @@
   "revoked": [],
   "clients": [
     {
-      "client": "Blal",
-      "mids": [
-        "MLTV-0FC1-102B-D016-3B95"
-      ],
-      "seats": 1,
-      "created": "15/10/2026 21:15",
-      "exp": "Permanente (De por vida)",
-      "exp_days": 0,
-      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtMEZDMS0xMDJCLUQwMTYtM0I5NSJdLCJjbGllbnQiOiJCbGFsIiwiZXhwIjowLCJzZWF0cyI6MSwiY3JlYXRlZCI6MTc5MjA5ODk1NiwidmVuZG9yIjoiQE1vbG90b3ZQayJ9-74B1B21C15BB4B3E",
-      "status": "ACTIVE"
-    },
-    {
       "client": "Yass1",
       "mids": [
         "MLTV-27B7-B24A-C716-E073"
