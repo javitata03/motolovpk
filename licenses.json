@@ -2,18 +2,6 @@
   "revoked": [],
   "clients": [
     {
-      "client": "badro",
-      "mids": [
-        "MLTV-77D5-0109-4F69-AF92"
-      ],
-      "seats": 1,
-      "created": "17/10/2026 13:21",
-      "exp": "Permanente (De por vida)",
-      "exp_days": 0,
-      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtNzdENS0wMTA5LTRGNjktQUY5MiJdLCJjbGllbnQiOiJiYWRybyIsImV4cCI6MCwic2VhdHMiOjEsImNyZWF0ZWQiOjE3OTIyNDMzMTksInZlbmRvciI6IkBNb2xvdG92UGsifQ==-F326EE9E0846C00C",
-      "status": "ACTIVE"
-    },
-    {
       "client": "mo3ad IT",
       "mids": [
         "MLTV-CC53-6BD6-D75E-111B"
