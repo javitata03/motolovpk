@@ -4,6 +4,18 @@
     {
       "client": "yass2",
       "mids": [
+        "MLTV-9CFB-3BAF-06BC-6046"
+      ],
+      "seats": 1,
+      "created": "20/10/2026 13:10",
+      "exp": "Permanente (De por vida)",
+      "exp_days": 0,
+      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtOUNGQi0zQkFGLTA2QkMtNjA0NiJdLCJjbGllbnQiOiJ5YXNzMiIsImV4cCI6MCwic2VhdHMiOjEsImNyZWF0ZWQiOjE3OTI1MDE4MjcsInZlbmRvciI6IkBNb2xvdG92UGsifQ==-BFC45037A82ECD7B",
+      "status": "ACTIVE"
+    },
+    {
+      "client": "yass2",
+      "mids": [
         "MLTV-7504-E0BE-7535-2AFD"
       ],
       "seats": 1,
