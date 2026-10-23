@@ -2,6 +2,18 @@
   "revoked": [],
   "clients": [
     {
+      "client": "yass",
+      "mids": [
+        "MLTV-9CFB-3BAF-06BC-6046"
+      ],
+      "seats": 1,
+      "created": "23/10/2026 13:01",
+      "exp": "Permanente (De por vida)",
+      "exp_days": 0,
+      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtOUNGQi0zQkFGLTA2QkMtNjA0NiJdLCJjbGllbnQiOiJ5YXNzIiwiZXhwIjowLCJzZWF0cyI6MSwiY3JlYXRlZCI6MTc5Mjc2MDQ3NiwidmVuZG9yIjoiQE1vbG90b3ZQayJ9-DC126CCB48D8A089",
+      "status": "ACTIVE"
+    },
+    {
       "client": "mo3ad IT",
       "mids": [
         "MLTV-CC53-6BD6-D75E-111B"
