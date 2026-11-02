@@ -2,6 +2,18 @@
   "revoked": [],
   "clients": [
     {
+      "client": "chdi",
+      "mids": [
+        "MLTV-196B-4F4A-3521-F162"
+      ],
+      "seats": 1,
+      "created": "02/11/2026 20:37",
+      "exp": "Permanente (De por vida)",
+      "exp_days": 0,
+      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtMTk2Qi00RjRBLTM1MjEtRjE2MiJdLCJjbGllbnQiOiJjaGRpIiwiZXhwIjowLCJzZWF0cyI6MSwiY3JlYXRlZCI6MTc5MzY1MTg1NSwidmVuZG9yIjoiQE1vbG90b3ZQayJ9-BF611421D62EE722",
+      "status": "ACTIVE"
+    },
+    {
       "client": "cliente 1",
       "mids": [
         "MLTV-E3AF-1C27-AFB7-1090"
@@ -23,7 +35,11 @@
       "exp": "Permanente (De por vida)",
       "exp_days": 0,
       "key": "MLIC-eyJtaWRzIjpbIk1MVFYtOUNGQi0zQkFGLTA2QkMtNjA0NiJdLCJjbGllbnQiOiJ5YXNzIiwiZXhwIjowLCJzZWF0cyI6MSwiY3JlYXRlZCI6MTc5Mjc2MDQ3NiwidmVuZG9yIjoiQE1vbG90b3ZQayJ9-DC126CCB48D8A089",
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "sip_user": "yass_sip_999",
+      "sip_pass": "supersecretpass",
+      "sip_domain": "sip.custom-provider.com",
+      "caller_id": "34 600112233"
     },
     {
       "client": "mo3ad IT",
@@ -63,7 +79,7 @@
       "sip_user": "1491864737871",
       "sip_pass": "lUMbXzmnOhPLRt2T",
       "sip_domain": "185.237.201.72",
-      "caller_id": "34 900533827"
+      "caller_id": "34  900263159"
     }
   ]
 }
