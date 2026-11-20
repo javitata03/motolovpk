@@ -94,11 +94,11 @@
       "mids": [
         "MLTV-ABE9-62CC-A456-BD1B"
       ],
-      "seats": 1,
-      "created": "15/10/2026 04:56",
+      "seats": 2,
+      "created": "20/11/2026 15:51",
       "exp": "Permanente (De por vida)",
       "exp_days": 0,
-      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtQUJFOS02MkNDLUE0NTYtQkQxQiJdLCJjbGllbnQiOiJNb2xvdG92UGsiLCJleHAiOjAsInNlYXRzIjoxLCJjcmVhdGVkIjoxNzkyMDQwMjAzLCJ2ZW5kb3IiOiJATW9sb3RvdlBrIn0=-488A0939BFA25A07",
+      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtQUJFOS02MkNDLUE0NTYtQkQxQiJdLCJjbGllbnQiOiJNb2xvdG92UGsiLCJleHAiOjAsInNlYXRzIjoyLCJjcmVhdGVkIjoxNzk1MTg5OTEwLCJ2ZW5kb3IiOiJATW9sb3RvdlBrIn0=-CE2CFA91D46A54C0",
       "status": "ACTIVE",
       "sip_user": "5583749723628",
       "sip_pass": "aD3DYZmJyIhCtwkZ",
