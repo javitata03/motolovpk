@@ -54,11 +54,11 @@
       "mids": [
         "MLTV-9CFB-3BAF-06BC-6046"
       ],
-      "seats": 1,
+      "seats": 2,
       "created": "20/11/2026 15:51",
       "exp": "Permanente (De por vida)",
       "exp_days": 0,
-      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtOUNGQi0zQkFGLTA2QkMtNjA0NiJdLCJjbGllbnQiOiJ5YXNzIiwiZXhwIjowLCJzZWF0cyI6MSwiY3JlYXRlZCI6MTc5NTE4OTg4NywidmVuZG9yIjoiQE1vbG90b3ZQayJ9-F9037866E1C8963D",
+      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtOUNGQi0zQkFGLTA2QkMtNjA0NiJdLCJjbGllbnQiOiJ5YXNzIiwiZXhwIjowLCJzZWF0cyI6MiwiY3JlYXRlZCI6MTc5NTE4OTg5MiwidmVuZG9yIjoiQE1vbG90b3ZQayJ9-BCD2B4F081209E3F",
       "status": "ACTIVE",
       "sip_user": "yass_sip_999",
       "sip_pass": "supersecretpass",
