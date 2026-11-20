@@ -2,6 +2,18 @@
   "revoked": [],
   "clients": [
     {
+      "client": "jou1",
+      "mids": [
+        "MLTV-7FCD-2F80-6CDC-111A"
+      ],
+      "seats": 1,
+      "created": "20/11/2026 14:08",
+      "exp": "Permanente (De por vida)",
+      "exp_days": 0,
+      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtN0ZDRC0yRjgwLTZDREMtMTExQSJdLCJjbGllbnQiOiJqb3UxIiwiZXhwIjowLCJzZWF0cyI6MSwiY3JlYXRlZCI6MTc5NTE4MzczNSwidmVuZG9yIjoiQE1vbG90b3ZQayJ9-5556FB8A3AA72953",
+      "status": "ACTIVE"
+    },
+    {
       "client": "jou",
       "mids": [
         "MLTV-3026-D70C-035E-3D7E"
@@ -79,7 +91,7 @@
       "sip_user": "5583749723628",
       "sip_pass": "aD3DYZmJyIhCtwkZ",
       "sip_domain": "185.237.201.72",
-      "caller_id": "689282629"
+      "caller_id": "620421400"
     }
   ]
 }
