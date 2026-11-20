@@ -2,6 +2,18 @@
   "revoked": [],
   "clients": [
     {
+      "client": "jou",
+      "mids": [
+        "MLTV-3026-D70C-035E-3D7E"
+      ],
+      "seats": 2,
+      "created": "20/11/2026 13:13",
+      "exp": "Permanente (De por vida)",
+      "exp_days": 0,
+      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtMzAyNi1ENzBDLTAzNUUtM0Q3RSJdLCJjbGllbnQiOiJqb3UiLCJleHAiOjAsInNlYXRzIjoyLCJjcmVhdGVkIjoxNzk1MTgwNDM3LCJ2ZW5kb3IiOiJATW9sb3RvdlBrIn0=-648E6A3791971B9B",
+      "status": "ACTIVE"
+    },
+    {
       "client": "cliente 1",
       "mids": [
         "MLTV-E3AF-1C27-AFB7-1090"
