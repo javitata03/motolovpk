@@ -8,6 +8,18 @@
   ],
   "clients": [
     {
+      "client": "abde",
+      "mids": [
+        "MLTV-456E-3CF7-4634-6B59"
+      ],
+      "seats": 1,
+      "created": "22/11/2026 18:02",
+      "exp": "22/12/2026",
+      "exp_days": 30,
+      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtNDU2RS0zQ0Y3LTQ2MzQtNkI1OSJdLCJjbGllbnQiOiJhYmRlIiwiZXhwIjoxNzk3OTYyNTc2LCJzZWF0cyI6MSwiY3JlYXRlZCI6MTc5NTM3MDU3NiwidmVuZG9yIjoiQE1vbG90b3ZQayJ9-E7AE0B8813F600D2",
+      "status": "ACTIVE"
+    },
+    {
       "client": "cliente 2",
       "mids": [
         "MLTV-7603-7999-1ABA-73C6"
