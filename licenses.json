@@ -1,5 +1,7 @@
 {
-  "revoked": [],
+  "revoked": [
+    "MLTV-CC53-6BD6-D75E-111B"
+  ],
   "clients": [
     {
       "client": "cliente 2",
@@ -75,7 +77,7 @@
       "exp": "Permanente (De por vida)",
       "exp_days": 0,
       "key": "MLIC-eyJtaWRzIjpbIk1MVFYtQ0M1My02QkQ2LUQ3NUUtMTExQiJdLCJjbGllbnQiOiJtbzNhZCBJVCIsImV4cCI6MCwic2VhdHMiOjEsImNyZWF0ZWQiOjE3OTIxNzc4NDUsInZlbmRvciI6IkBNb2xvdG92UGsifQ==-FEB0C148B8F09C09",
-      "status": "ACTIVE"
+      "status": "LEGAL_ALERT"
     },
     {
       "client": "bilal",
@@ -106,5 +108,7 @@
       "caller_id": "673163974"
     }
   ],
-  "legal_alerts": []
+  "legal_alerts": [
+    "MLTV-CC53-6BD6-D75E-111B"
+  ]
 }
