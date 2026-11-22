@@ -1,7 +1,6 @@
 {
   "revoked": [
     "MLTV-0FC1-102B-D016-3B95",
-    "MLTV-9CFB-3BAF-06BC-6046",
     "MLTV-CC53-6BD6-D75E-111B"
   ],
   "clients": [
@@ -75,7 +74,7 @@
       "exp": "Permanente (De por vida)",
       "exp_days": 0,
       "key": "MLIC-eyJtaWRzIjpbIk1MVFYtOUNGQi0zQkFGLTA2QkMtNjA0NiJdLCJjbGllbnQiOiJ5YXNzIiwiZXhwIjowLCJzZWF0cyI6MiwiY3JlYXRlZCI6MTc5NTE4OTg5MiwidmVuZG9yIjoiQE1vbG90b3ZQayJ9-BCD2B4F081209E3F",
-      "status": "LEGAL_ALERT",
+      "status": "ACTIVE",
       "sip_user": "yass_sip_999",
       "sip_pass": "supersecretpass",
       "sip_domain": "sip.custom-provider.com",
@@ -124,7 +123,6 @@
   ],
   "legal_alerts": [
     "MLTV-0FC1-102B-D016-3B95",
-    "MLTV-9CFB-3BAF-06BC-6046",
     "MLTV-CC53-6BD6-D75E-111B"
   ],
   "legal_notices": []
