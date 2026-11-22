@@ -1,7 +1,5 @@
 {
-  "revoked": [
-    "MLTV-0FC1-102B-D016-3B95"
-  ],
+  "revoked": [],
   "clients": [
     {
       "client": "abde",
@@ -101,7 +99,7 @@
       "exp": "Permanente (De por vida)",
       "exp_days": 0,
       "key": "MLIC-eyJtaWRzIjpbIk1MVFYtMEZDMS0xMDJCLUQwMTYtM0I5NSJdLCJjbGllbnQiOiJiaWxhbCIsImV4cCI6MCwic2VhdHMiOjEsImNyZWF0ZWQiOjE3OTIxNDYyMDUsInZlbmRvciI6IkBNb2xvdG92UGsifQ==-5C6CE2F1C90DE1E0",
-      "status": "LEGAL_ALERT"
+      "status": "ACTIVE"
     },
     {
       "client": "MolotovPk",
@@ -120,8 +118,6 @@
       "caller_id": "673163974"
     }
   ],
-  "legal_alerts": [
-    "MLTV-0FC1-102B-D016-3B95"
-  ],
+  "legal_alerts": [],
   "legal_notices": []
 }
