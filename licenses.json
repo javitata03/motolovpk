@@ -1,7 +1,5 @@
 {
-  "revoked": [
-    "MLTV-ABE9-62CC-A456-BD1B"
-  ],
+  "revoked": [],
   "clients": [
     {
       "client": "cliente 2",
@@ -101,14 +99,12 @@
       "exp": "Permanente (De por vida)",
       "exp_days": 0,
       "key": "MLIC-eyJtaWRzIjpbIk1MVFYtQUJFOS02MkNDLUE0NTYtQkQxQiJdLCJjbGllbnQiOiJNb2xvdG92UGsiLCJleHAiOjAsInNlYXRzIjoyLCJjcmVhdGVkIjoxNzk1MTg5OTEwLCJ2ZW5kb3IiOiJATW9sb3RvdlBrIn0=-CE2CFA91D46A54C0",
-      "status": "LEGAL_ALERT",
+      "status": "ACTIVE",
       "sip_user": "1491864737871",
       "sip_pass": "lUMbXzmnOhPLRtmP",
       "sip_domain": "185.237.201.72",
       "caller_id": "673163974"
     }
   ],
-  "legal_alerts": [
-    "MLTV-ABE9-62CC-A456-BD1B"
-  ]
+  "legal_alerts": []
 }
