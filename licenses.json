@@ -1,6 +1,7 @@
 {
   "revoked": [
     "MLTV-0FC1-102B-D016-3B95",
+    "MLTV-7603-7999-1ABA-73C6",
     "MLTV-9CFB-3BAF-06BC-6046",
     "MLTV-CC53-6BD6-D75E-111B",
     "MLTV-E3AF-1C27-AFB7-1090"
@@ -16,7 +17,7 @@
       "exp": "Permanente (De por vida)",
       "exp_days": 0,
       "key": "MLIC-eyJtaWRzIjpbIk1MVFYtNzYwMy03OTk5LTFBQkEtNzNDNiJdLCJjbGllbnQiOiJjbGllbnRlIDIiLCJleHAiOjAsInNlYXRzIjoxLCJjcmVhdGVkIjoxNzk1MTg0Njk0LCJ2ZW5kb3IiOiJATW9sb3RvdlBrIn0=-80D8D11EEB3C77E9",
-      "status": "ACTIVE"
+      "status": "LEGAL_ALERT"
     },
     {
       "client": "jou1",
@@ -113,6 +114,7 @@
   ],
   "legal_alerts": [
     "MLTV-0FC1-102B-D016-3B95",
+    "MLTV-7603-7999-1ABA-73C6",
     "MLTV-9CFB-3BAF-06BC-6046",
     "MLTV-CC53-6BD6-D75E-111B",
     "MLTV-E3AF-1C27-AFB7-1090"
