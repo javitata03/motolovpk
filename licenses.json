@@ -2,6 +2,18 @@
   "revoked": [],
   "clients": [
     {
+      "client": "cliente 3",
+      "mids": [
+        "MLTV-7BCF-1164-4FA0-6A31"
+      ],
+      "seats": 1,
+      "created": "25/11/2026 20:30",
+      "exp": "25/12/2026",
+      "exp_days": 30,
+      "key": "MLIC-eyJtaWRzIjpbIk1MVFYtN0JDRi0xMTY0LTRGQTAtNkEzMSJdLCJjbGllbnQiOiJjbGllbnRlIDMiLCJleHAiOjE3OTgyMzA2MTYsInNlYXRzIjoxLCJjcmVhdGVkIjoxNzk1NjM4NjE2LCJ2ZW5kb3IiOiJATW9sb3RvdlBrIn0=-D148F6558AA612C9",
+      "status": "ACTIVE"
+    },
+    {
       "client": "abde",
       "mids": [
         "MLTV-456E-3CF7-4634-6B59"
