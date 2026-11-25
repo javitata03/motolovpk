@@ -1,7 +1,5 @@
 {
-  "revoked": [
-    "MLTV-7603-7999-1ABA-73C6"
-  ],
+  "revoked": [],
   "clients": [
     {
       "client": "abde",
@@ -25,7 +23,7 @@
       "exp": "Permanente (De por vida)",
       "exp_days": 0,
       "key": "MLIC-eyJtaWRzIjpbIk1MVFYtNzYwMy03OTk5LTFBQkEtNzNDNiJdLCJjbGllbnQiOiJjbGllbnRlIDIiLCJleHAiOjAsInNlYXRzIjoxLCJjcmVhdGVkIjoxNzk1MTg0Njk0LCJ2ZW5kb3IiOiJATW9sb3RvdlBrIn0=-80D8D11EEB3C77E9",
-      "status": "REVOKED"
+      "status": "ACTIVE"
     },
     {
       "client": "jou1",
